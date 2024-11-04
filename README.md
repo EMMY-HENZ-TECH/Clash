@@ -16,9 +16,9 @@
     }
     .container {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 20px;
-      max-width: 800px;
+      max-width: 500px;
     }
     .box {
       background-color: #e3f3e3;
