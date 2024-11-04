@@ -16,9 +16,9 @@
     }
     .container {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(3, 1fr);
       gap: 20px;
-      max-width: 500px;
+      max-width: 600px;
     }
     .box {
       background-color: #e3f3e3;
@@ -63,6 +63,12 @@
     <a href="https://t.me/EmmyHenz" class="box">Steganography</a>
     <a href="https://t.me/EmmyHenz" class="box">Network Monitoring</a>
     <a href="https://t.me/EmmyHenz" class="box">Botnet Tools</a>
+    <a href="https://t.me/EmmyHenz" class="box">Phishing Tools</a>
+    <a href="https://t.me/EmmyHenz" class="box">OSINT Tools</a>
+    <a href="https://t.me/EmmyHenz" class="box">Keyloggers</a>
+    <a href="https://t.me/EmmyHenz" class="box">Trojan Development</a>
+    <a href="https://t.me/EmmyHenz" class="box">Anonymity Tools</a>
+    <a href="https://t.me/EmmyHenz" class="box">Wireless Testing</a>
   </div>
 </body>
 </html>
